@@ -114,7 +114,8 @@ Número encontrado.
 
 ## 8. Capturas de Pantalla
 
-Ejemplos de ejecución del programa:
+Menú Interactivo:
+![img.png](img.png)
 
 
 
@@ -126,11 +127,6 @@ Ejemplos de ejecución del programa:
 
 
 
-## 10. Conclusión
-
-Este proyecto permitió comprender cómo funcionan los árboles binarios de búsqueda y cómo se implementan en Java.
-
-El recorrido inorden demostró ser una herramienta clave para visualizar los datos de forma ordenada, mientras que la búsqueda permitió validar la eficiencia de esta estructura.
 
 
 

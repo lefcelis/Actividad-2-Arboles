@@ -123,6 +123,8 @@ Inserción de Números:
 Mostrando Recorrido Inorden:
 ![img_2.png](img_2.png)
 
+Buscando un Número:
+![img_3.png](img_3.png)
 
 ## 9. Tecnologías Utilizadas
 

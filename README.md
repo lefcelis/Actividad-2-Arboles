@@ -120,6 +120,8 @@ Menú Interactivo:
 Inserción de Números:
 ![img_1.png](img_1.png)
 
+Mostrando Recorrido Inorden:
+![img_2.png](img_2.png)
 
 
 ## 9. Tecnologías Utilizadas

@@ -114,7 +114,7 @@ Número encontrado.
 
 ## 8. Capturas de Pantalla
 
-
+Ejemplos de ejecución del programa:
 
 
 

@@ -114,16 +114,16 @@ Número encontrado.
 
 ## 8. Capturas de Pantalla
 
-Menú Interactivo:
+0. Menú Interactivo:
 ![img.png](img.png)
 
-Inserción de Números:
+1. Inserción de Números:
 ![img_1.png](img_1.png)
 
-Mostrando Recorrido Inorden:
+2. Mostrando Recorrido Inorden:
 ![img_2.png](img_2.png)
 
-Buscando un Número:
+3. Buscando un Número:
 ![img_3.png](img_3.png)
 
 ## 9. Tecnologías Utilizadas
@@ -133,7 +133,11 @@ Buscando un Número:
 * GitHub
 
 
+## 10. Conclusión 
 
+Este proyecto permitió comprender cómo funcionan los árboles binarios de búsqueda y cómo se implementan en Java.
+
+El recorrido inorden demostró ser una herramienta clave para visualizar los datos de forma ordenada, mientras que la búsqueda permitió validar la eficiencia de esta estructura.
 
 
 

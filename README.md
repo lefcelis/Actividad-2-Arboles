@@ -117,6 +117,9 @@ Número encontrado.
 Menú Interactivo:
 ![img.png](img.png)
 
+Inserción de Números:
+![img_1.png](img_1.png)
+
 
 
 ## 9. Tecnologías Utilizadas
